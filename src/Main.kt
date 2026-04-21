@@ -29,7 +29,7 @@ fun main() {
 
 
 
-printSum(10, 20);
-    printAge(27);
+printSum(30, 120);
+    printAge(28);
 
 }
